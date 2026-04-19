@@ -17,8 +17,11 @@ This interactive tool helps short-video creators analyze video performance, incl
 1. Short videos (<15s) have higher engagement
 2. Tutorial videos perform better than store visit videos
 
-### 5. How to Use
+### 5. Live Tool Link
+👉https://acc102-track4-video-analytics-o9hqo9qta3lizv9q8nptyz.streamlit.app/👈
+
+### 6. How to Use
 Upload the CSV file, and the tool will automatically generate analysis results and charts.
 
-### 6. Limitations
+### 7. Limitations
 Small sample size; will expand data in future updates.
