@@ -20,12 +20,19 @@ This interactive tool helps short-video creators analyze video performance, incl
 ### 5. Live Tool Link
 👉 https://acc102-track4-video-analytics-o9hqo9qta3lizv9q8nptyz.streamlit.app/ 👈
 
-### 6. How to Use
+### 6. How to Run Locally
+1. Clone this repository
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Run the application:
+  python -m streamlit run app.py
+   
+### 7. How to Use
 Upload the CSV file, and the tool will automatically generate analysis results and charts.
 
-### 7. Limitations
+### 8. Limitations
 Small sample size; will expand data in future updates.
 
-### 8. AI Disclosure 
+### 9. AI Disclosure 
 AI tools were used to assist with generating code framework and README draft. 
 All data logic, analysis design, and tool debugging were completed independently by myself.
