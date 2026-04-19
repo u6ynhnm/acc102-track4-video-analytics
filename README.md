@@ -25,3 +25,7 @@ Upload the CSV file, and the tool will automatically generate analysis results a
 
 ### 7. Limitations
 Small sample size; will expand data in future updates.
+
+### 8. AI Disclosure 
+AI tools were used to assist with generating code framework and README draft. 
+All data logic, analysis design, and tool debugging were completed independently by myself.
